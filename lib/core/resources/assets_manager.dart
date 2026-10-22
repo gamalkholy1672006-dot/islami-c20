@@ -16,4 +16,12 @@ abstract final class AssetsManager {
   static const String quranBack = "assets/images/quran_back.png";
   static const String mostRecent = "assets/images/img_most_recent.png";
   static const String suraNumber = "assets/images/sura_number.svg";
+  static const String on_boarding_2 = "assets/images/on_boarding_2.png";
+  static const String on_boarding_3 = "assets/images/on_boarding_3.png";
+  static const String on_boarding_4 = "assets/images/on_boarding_4.png";
+  static const String on_boarding_5 = "assets/images/on_boarding_5.png";
+  static const String on_boarding_1 = "assets/images/on_boarding_1.png";
+  static const String sebha_back = "assets/images/sebha_back.png";
+  static const String Sebha = "assets/images/Sebha.png";
+  static const String Logo = "assets/images/Logo.png";
 }
